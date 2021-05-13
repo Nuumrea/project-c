@@ -1,0 +1,10 @@
+.title-container {
+  min-height: 25vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.title-container > span {
+  font-size: 2rem;
+  font-weight: bold;
+}
